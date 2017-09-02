@@ -6,6 +6,7 @@
 ## Contents
 
 - [Tools](#tools)
+- [Libraries](#libraries)
 - [Data](#data)
 - [Resources](#resources)
 
@@ -17,7 +18,15 @@ Various awesome tools for geospatial work
 - [QGIS](http://www.qgis.org/): A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data
 - [GIMP](https://www.gimp.org/): For editing visual (non-analytic) raster products
 - [GeoJSON.io](http://geojson.io/): Online GeoJSON viewer/editor
+
+## Libraries
+
+Awesome libraries to support geospatial development
+
 - [GDAL](http://www.gdal.org/): Geospatial Data Abstraction Library - C/C++ library with Python bindings and helpful command line tools for handling many raster and vector geospatial data formats
+- [Rasterio](https://github.com/mapbox/rasterio): Python package for reading/writing raster datasets, based on GDAL
+- [Shapely](https://github.com/Toblerity/Shapely): Python package for manipulation and analysis of planar geometric objects, based on GEOS
+- [GEOS](https://trac.osgeo.org/geos/): GEOS (Geometry Engine - Open Source) is a C++ port of the ​Java Topology Suite (JTS)
 
 
 ## Data
@@ -33,6 +42,11 @@ Data that is publicly available at no extra cost (access fees may apply for AWS/
 
 
 ## Resources
+
+### Websites
+
+- [GIS StackExchange](https://gis.stackexchange.com/) - Q&A site for Geospatial questions
+- [Gunter's Space Page](http://space.skyrocket.de/) - Info about spacecraft, launch vehicles, and launches
 
 ### Guides/Tutorials
 
