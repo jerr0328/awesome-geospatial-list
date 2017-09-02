@@ -1,4 +1,4 @@
-# Awesome Geospatial List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Geospatial List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/jerr0328/awesome-geospatial-list.svg?branch=master)](https://travis-ci.org/jerr0328/awesome-geospatial-list)
 
 > A curated list of geospatial tools, data, tutorials, information, and more
 
@@ -15,7 +15,7 @@
 Various awesome tools for geospatial work
 
 - [QGIS](http://www.qgis.org/): A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data
-- [GIMP](http://www.gimp.org/): For editing visual (non-analytic) raster products
+- [GIMP](https://www.gimp.org/): For editing visual (non-analytic) raster products
 - [GeoJSON.io](http://geojson.io/): Online GeoJSON viewer/editor
 
 
@@ -49,7 +49,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Jeremy Mayeres has waived all copyright and
 related or neighboring rights to this work.
