@@ -17,6 +17,7 @@ Various awesome tools for geospatial work
 - [QGIS](http://www.qgis.org/): A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data
 - [GIMP](https://www.gimp.org/): For editing visual (non-analytic) raster products
 - [GeoJSON.io](http://geojson.io/): Online GeoJSON viewer/editor
+- [GDAL](http://www.gdal.org/): Geospatial Data Abstraction Library - C/C++ library with Python bindings and helpful command line tools for handling many raster and vector geospatial data formats
 
 
 ## Data
