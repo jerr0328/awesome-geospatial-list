@@ -48,6 +48,7 @@ Data that is publicly available at no extra cost (access fees may apply for AWS/
 - [GIS StackExchange](https://gis.stackexchange.com/) - Q&A site for Geospatial questions
 - [Gunter's Space Page](http://space.skyrocket.de/) - Info about spacecraft, launch vehicles, and launches
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools
+- [Python GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - Simple code snippets on how to use the Python GDAL/OGR API
 
 ### Guides/Tutorials
 
