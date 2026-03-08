@@ -18,6 +18,7 @@ Various awesome tools for geospatial work
 - [QGIS](https://www.qgis.org/) - A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data.
 - [GIMP](https://www.gimp.org/) - For editing visual (non-analytic) raster products.
 - [GeoJSON.io](https://geojson.io/) - Online GeoJSON viewer/editor.
+- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive geospatial visualization using MapLibre and Deck.gl. ([Source Code](https://github.com/Juliusolsson05/pharos-ai))
 
 ## Libraries
 
