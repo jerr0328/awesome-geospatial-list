@@ -17,6 +17,7 @@ Various awesome tools for geospatial work
 
 - [QGIS](https://www.qgis.org/) - A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data.
 - [GIMP](https://www.gimp.org/) - For editing visual (non-analytic) raster products.
+- [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with a notebook environment and Google Earth Engine integration.
 - [GeoJSON.io](https://geojson.io/) - Online GeoJSON viewer/editor.
 
 ## Libraries
