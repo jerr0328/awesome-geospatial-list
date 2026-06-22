@@ -18,6 +18,7 @@ Various awesome tools for geospatial work
 - [QGIS](https://www.qgis.org/) - A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data.
 - [GIMP](https://www.gimp.org/) - For editing visual (non-analytic) raster products.
 - [GeoJSON.io](https://geojson.io/) - Online GeoJSON viewer/editor.
+- [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context. Includes autocomplete, resolve, postcodes, LAU regions, and a TypeScript SDK.
 
 ## Libraries
 
