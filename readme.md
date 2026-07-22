@@ -41,6 +41,7 @@ Data that is publicly available at no extra cost (access fees may apply for AWS/
 
 
 ## Resources
+- [UPGIS](https://upgis.com/) - A Chinese-language GIS community and mapping resource portal.
 
 ### Websites
 
