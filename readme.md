@@ -18,6 +18,7 @@ Various awesome tools for geospatial work
 - [QGIS](https://www.qgis.org/) - A Free and Open Source Geographic Information System - Awesome for viewing raster and vector data.
 - [GIMP](https://www.gimp.org/) - For editing visual (non-analytic) raster products.
 - [GeoJSON.io](https://geojson.io/) - Online GeoJSON viewer/editor.
+- [OSM2CDR](https://osm2cdr.com/) - Web service for exporting OpenStreetMap data into 62+ vector, CAD and 3D formats (CDR, DWG, DXF, SVG, STL) with editable map layers.
 
 ## Libraries
 
