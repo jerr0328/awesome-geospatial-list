@@ -44,6 +44,7 @@ Data that is publicly available at no extra cost (access fees may apply for AWS/
 
 ### Websites
 
+- [KoreAves — South Korea Bird Evidence Map](https://koreaves.com/gis/) - Interactive regional bird-observation evidence map with links to original sources and notes on sampling limitations.
 - [GIS StackExchange](https://gis.stackexchange.com/) - Question and answer (Q&A) site for geospatial.
 - [Gunter's Space Page](https://space.skyrocket.de/) - Info about spacecraft, launch vehicles, and launches.
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools.
